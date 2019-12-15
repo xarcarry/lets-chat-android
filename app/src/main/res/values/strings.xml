@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QQApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <drawable name="clr_normal">#18b4ed</drawable>
+    <drawable name="clr_pressed">#02a7e3</drawable>
+</resources>
